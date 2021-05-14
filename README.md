@@ -2,6 +2,10 @@
 UTS - Research Project Prototype
 This is the prototype application developped for UTS 32933 Research Project course.
 
+## Research Dataset
+MIMIC-IV is a relational database containing real hospital stays for patients admitted to a tertiary academic medical center in Boston, MA, USA.  
+For more details or downloading, please refer to: [MIMIC-IV](https://mimic-iv.mit.edu/docs/)
+
 ## Files Overview:
 Please use Python 3 to excecute the programs.
 
