@@ -62,3 +62,16 @@ pip install -U scikit-learn
 pip install matplotlib
 pip install seaborn
 ```
+
+## Contribution
+Supervisor:  
+Xueping Peng  
+Students:  
+Yihao Chen  
+GUI develop, modelling design, modelling implementation, data ETL, data visualization, part of reporting.  
+Jinghan Wang  
+Modelling design, program testing and result analysis, most of reporting.  
+Junzhou Zhang  
+Modelling design, part of reporting.
+
+
